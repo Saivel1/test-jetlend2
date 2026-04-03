@@ -11,7 +11,7 @@ Django-проект для создания заказов с поддержко
 
 ## Установка
 ```bash
-git clone <repo>
+git clone https://github.com/Saivel1/test-jetlend2
 cd orders
 uv sync
 ```
